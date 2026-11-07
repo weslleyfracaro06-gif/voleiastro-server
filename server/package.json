@@ -1,0 +1,8 @@
+{
+  "name": "voleiastro-server",
+  "version": "1.0.0",
+  "description": "Servidor de salas online do VoleiAstro (WebSocket, sem dependências)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "test": "node test.js" },
+  "engines": { "node": ">=18" }
+}
